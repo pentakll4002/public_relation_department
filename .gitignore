@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Environments
+.env
+env/
+ENV/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Jupyter Notebook output
+*.nbconvert.ipynb
+
+# Excel temporary files
+~$*.xlsx
+
+# Logs
+*.log
+
+# Model files
+*.pkl
+*.joblib
+
+# Matplotlib figures
+*.pdf
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# pip dependency logs
+pip-log.txt
+
+# Cache
+*.cache
+
+# MyPy type checker
+.mypy_cache/
+
+# Pytest
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Jupyter runtime
+~/.local/share/jupyter/runtime/
